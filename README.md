@@ -4,4 +4,4 @@ I graduated from the College of William & Mary in 2018 with degrees in Economics
 
 - Things I'm good at: JavaScript, TypeScript, Tailwind, NextJS, React, Dart, HTML, CSS
 - Things I'm learning: Neovim, Golang
-- Other interests: 📖🎸🎹⛷️🛫
+- Other interests: 📖 🎸 🎹 ⛷️ 🛫
